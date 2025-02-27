@@ -1,7 +1,8 @@
 <h1> Login - DevTech </h1>
 
-Este é um projeto simples de uma página de login, desenvolvido para demonstrar uma interface de usuário funcional e amigável.
-Ele pode ser utilizado como base para sistemas de autenticação ou como parte de um site maior.
+<h2> 📋 Descrição </h2>
+
+Este projeto consiste em uma página de login moderna e responsiva, desenvolvida com foco em proporcionar uma experiência de usuário agradável e intuitiva. A página oferece um formulário estilizado para autenticação de usuários, com campos para email/usuário e senha.
 
 
 ![Imagem do projeto](https://raw.githubusercontent.com/danielly-pedrini/Page-Login/ca093bcadf079aa440cc81e4cbcd0f85cd01b67b/assets/imagem%20README.PNG)
@@ -12,7 +13,7 @@ Ele pode ser utilizado como base para sistemas de autenticação ou como parte d
 Design limpo e responsivo com fundo gradiente
 Operações aritméticas básicas (adição, subtração, multiplicação, divisão)
 
-<h2> 📋 Funcionalidades </h2>
+<h2> ✨ Funcionalidades </h2>
 
 Login de Usuário: O usuário pode inserir suas credenciais (usuário e senha) para acessar o sistema. 
 <br>
@@ -21,13 +22,20 @@ Lembrar Senha: Uma opção para lembrar a senha, facilitando o acesso do usuári
 Esqueci a Senha: Caso o usuário tenha esquecido sua senha, pode acessar uma funcionalidade para recuperá-la.
 <br>
 Cadastro de Novo Usuário: Um link para que novos usuários possam se cadastrar, caso ainda não tenham uma conta.
-
+<br>
+Design moderno e atraente
+<br>
+Compatibilidade com diferentes tamanhos de tela
+<br>
+Efeitos visuais e animações durante a interação
 
 <h2> 🚀 Tecnologias Utilizadas </h2>
 
 <h4> HTML5 </h4>
-<h4> CSS  </h4>
+<h4> CSS3 </h4>
+<h4> Animações CSS </h4>
 <h4> JavaScript </h4>
+<h4> Flexbox/Grid para layout responsivo </h4>
 
 <h2> 👩‍💻 Autora  </h2>
 
